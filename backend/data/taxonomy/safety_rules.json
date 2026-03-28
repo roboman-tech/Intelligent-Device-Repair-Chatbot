@@ -1,0 +1,13 @@
+{
+  "high_risk_keywords": [
+    "swollen battery",
+    "burn smell",
+    "sparking",
+    "smoke",
+    "liquid damage",
+    "electric shock",
+    "cracked battery",
+    "severe overheating while charging"
+  ],
+  "policy": "Stop DIY guidance and recommend professional service when matched."
+}

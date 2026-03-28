@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local vector DB + secrets
+backend/data/chroma_db/
+.env
+
+# Downloaded embedding weights (use scripts/download_embedding_model.py)
+models/*
+!models/README.md
+
+# Node / Vite
+node_modules/
+frontend/dist/
+
+model/
