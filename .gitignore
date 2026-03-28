@@ -217,5 +217,4 @@ models/*
 # Node / Vite
 node_modules/
 frontend/dist/
-
 model/
